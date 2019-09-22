@@ -1,0 +1,227 @@
+.headercolor{
+    background-color:#0c1c31;
+}
+
+.colorheader{
+    color:white;
+    display: block;
+    padding: .5rem 1rem;
+}
+
+.mainimage{
+    background-image: url(/images/mainfon.jpg);
+    height: 700px;
+    color: white;
+}
+
+.maintext{
+    margin-top: 25%;
+}
+
+.imgcabinet{
+    /* display: block;
+    padding: .5rem 1rem; */
+    margin-bottom: 0.25rem;
+    padding-right: 10px;
+}
+
+.block2image{
+    max-width: 65%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+}
+
+.block3 {
+    background-color: #107bb5;
+    padding-bottom: 20px;
+}
+
+.colorheaderblock3{
+    color: white;
+    margin:20px;
+    font-family: ProximaNova-Bold;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.ugolkrug{
+    font-family: ProximaNova-Bold;
+    color: #107bb5;
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width:200px; /* Длина фигуры */
+    height:35px; /* Высота фигуры */
+    /* color: #0000;  */
+    /* цвет текста */
+    background:white; /* фон блока */
+    /* border: 3px #CCCCCC solid;  */
+    /* стили рамки */
+    border-radius: 20px; /* закругление углов для всех, кто понимает */
+}
+
+.colortextblock3{
+    color: white;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 20px;
+    font-family: ProximaNova-Bold;
+}
+.block4{
+    padding-bottom: 30px;
+}
+
+.block4text{
+    margin-top: 30px;
+}
+.block4image{
+    max-width: 100%;
+    margin-top: 30px;
+}
+.block4imageprivat{
+    max-width: 80%;
+}
+
+.block5 {
+    background-color: #107bb5;
+   padding-bottom: 30px;
+}
+
+.block5text{
+    border: white 1px solid;
+    width: 80%;
+    border: 1px solid white;
+    text-align: center;
+    margin : 15px 15px 15px 15%;
+    padding: 10px;
+    color: white;
+}
+
+.block5textIndustry{
+    color: #58a3cb;
+    font-size: 48px;
+    padding-left: 50px;
+}
+.block5textIndustryAgro{
+    color: #58a3cb;
+    font-size: 48px;
+    margin-top: 13px;
+    padding-left: 50px;
+}
+.block5image{
+    max-width: 100%;
+}
+
+.block6{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.block6text{
+    font-family: ProximaNova-Bold;
+    font-size: 30px;
+    color: #58a3cb;
+    text-align: center;
+    margin-top: 30px;
+}
+.block6image{
+    max-width: 100%;
+
+}
+
+.block6body{
+    background-color: white;
+    padding: 15px;
+}
+
+.block6-info{
+    border: 3px solid #096297;
+    border-radius: 30px;
+    width: 330px;
+    padding: 10px 20px;
+    position: relative;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.block6-info:before {
+    content: '';
+    background-color: #b001f1;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    display: block;
+    border: 5px solid #096297;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.block7{
+    background-color:#D6DCE1;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.block7text{
+    margin-bottom: 15px;
+    color: #00467b;
+}
+.block8{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.block8image{
+    max-width: 30%;
+}
+.block8text{
+    color: #024979;
+    font-size: 30px;
+    font-family: ProximaNova-Bold;
+}
+.block8text1{
+    font-size: 14px;
+    font-family: ProximaNova-Regular;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.block8imagePhoneModel{
+    padding: 15px;
+}
+.block9{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #00467b;
+    background-color:#D6DCE1;
+}
+.block9maintext{
+    color: #024979;
+    font-size: 30px;
+    font-family: ProximaNova-Bold;
+}
+.block9text{
+    font-size: 22px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.block9icon{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.block10{
+    background: #0c1c31;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.block10text{
+    color: #b9b8b8;
+    font-family: ProximaNova-Bold;
+    font-size: 16px;
+}
+
